@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|c:\\users\\user\\source\\repos\\dependencyinjectiondemo\\vehicles\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F662FFD1-975F-4BE4-ACB4-AC63B7D7BDE4}|DependencyInjectionDemo.csproj|solutionrelative:vehicles\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "Services\\DriverService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Services\\DriverService.cs",
+              "RelativeToolTip": "Services\\DriverService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:14:11.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Truck.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Truck.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Truck.cs",
+              "RelativeToolTip": "Vehicles\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:14:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Bike.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Bike.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Bike.cs",
+              "RelativeToolTip": "Vehicles\\Bike.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:13:50.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Car.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Vehicles\\Car.cs",
+              "RelativeToolTip": "Vehicles\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:13:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:13:31.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DependencyInjectionDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:05:02.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

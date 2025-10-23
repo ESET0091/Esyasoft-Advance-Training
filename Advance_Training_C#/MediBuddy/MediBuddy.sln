@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediBuddy", "MediBuddy.csproj", "{1445153A-8A9A-4BAE-BE4D-952973B1CD29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1445153A-8A9A-4BAE-BE4D-952973B1CD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445153A-8A9A-4BAE-BE4D-952973B1CD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445153A-8A9A-4BAE-BE4D-952973B1CD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445153A-8A9A-4BAE-BE4D-952973B1CD29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D023F643-E4FC-497D-A6DA-8505F7FC9047}
+	EndGlobalSection
+EndGlobal

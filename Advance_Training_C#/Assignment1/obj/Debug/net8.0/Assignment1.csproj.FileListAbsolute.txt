@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\user\Desktop\Advance_Training_C#\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\migrations\\20251016060941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:migrations\\20251016060941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\migrations\\20251016111541_addeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:migrations\\20251016111541_addeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\migrations\\20251016071332_perscriptionsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:migrations\\20251016071332_perscriptionsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|c:\\users\\user\\desktop\\advance_training_c#\\medibuddy\\migrations\\20251016062116_patientdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1445153A-8A9A-4BAE-BE4D-952973B1CD29}|MediBuddy.csproj|solutionrelative:migrations\\20251016062116_patientdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "Controllers\\UsersController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:37:49.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251016111541_addeddata.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016111541_addeddata.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016111541_addeddata.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016111541_addeddata.cs",
+              "RelativeToolTip": "Migrations\\20251016111541_addeddata.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:15:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Controllers\\PatientsController.cs*",
+              "RelativeToolTip": "Controllers\\PatientsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:18:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251016071332_PerscriptionsDetail.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016071332_PerscriptionsDetail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016071332_PerscriptionsDetail.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016071332_PerscriptionsDetail.cs",
+              "RelativeToolTip": "Migrations\\20251016071332_PerscriptionsDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:13:37.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251016062116_patientDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016062116_patientDoctor.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016062116_patientDoctor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016062116_patientDoctor.cs",
+              "RelativeToolTip": "Migrations\\20251016062116_patientDoctor.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:21:19.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251016060941_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016060941_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016060941_initialcreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Migrations\\20251016060941_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20251016060941_initialcreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:09:49.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Context\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Context\\AplicationDBContext.cs",
+              "RelativeToolTip": "Data\\Context\\AplicationDBContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:23:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T05:20:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Prescription.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Prescription.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Prescription.cs",
+              "RelativeToolTip": "Data\\Entities\\Prescription.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:08:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\MedicalRecord.cs",
+              "RelativeToolTip": "Data\\Entities\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:08:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Data\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:08:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Data\\Entities\\Doctor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA0wCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:07:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\Patient.cs",
+              "RelativeToolTip": "Data\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:06:53.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:06:05.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\MediBuddy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:04:29.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

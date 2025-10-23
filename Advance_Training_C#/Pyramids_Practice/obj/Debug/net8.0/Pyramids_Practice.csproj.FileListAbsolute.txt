@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\bin\Debug\net8.0\Pyramids_Practice.exe
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\bin\Debug\net8.0\Pyramids_Practice.deps.json
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\bin\Debug\net8.0\Pyramids_Practice.runtimeconfig.json
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\bin\Debug\net8.0\Pyramids_Practice.dll
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\bin\Debug\net8.0\Pyramids_Practice.pdb
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.AssemblyInfo.cs
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.dll
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\refint\Pyramids_Practice.dll
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.pdb
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\Pyramids_Practice.genruntimeconfig.cache
+C:\Users\user\Desktop\Advance_Training_C#\Pyramids_Practice\obj\Debug\net8.0\ref\Pyramids_Practice.dll

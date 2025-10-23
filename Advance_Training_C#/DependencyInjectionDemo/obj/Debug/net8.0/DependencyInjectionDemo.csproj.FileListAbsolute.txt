@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.exe
+C:\Users\user\source\repos\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.deps.json
+C:\Users\user\source\repos\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.runtimeconfig.json
+C:\Users\user\source\repos\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.dll
+C:\Users\user\source\repos\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.pdb
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfo.cs
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.dll
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\refint\DependencyInjectionDemo.dll
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.pdb
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.genruntimeconfig.cache
+C:\Users\user\source\repos\DependencyInjectionDemo\obj\Debug\net8.0\ref\DependencyInjectionDemo.dll

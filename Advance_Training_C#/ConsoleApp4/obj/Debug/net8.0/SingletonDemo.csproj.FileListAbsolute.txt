@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\bin\Debug\net8.0\SingletonDemo.exe
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\bin\Debug\net8.0\SingletonDemo.deps.json
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\bin\Debug\net8.0\SingletonDemo.runtimeconfig.json
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\bin\Debug\net8.0\SingletonDemo.dll
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\bin\Debug\net8.0\SingletonDemo.pdb
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.AssemblyInfo.cs
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.dll
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\refint\SingletonDemo.dll
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.pdb
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\SingletonDemo.genruntimeconfig.cache
+C:\Users\user\Desktop\Advance_Training_C#\ConsoleApp4\obj\Debug\net8.0\ref\SingletonDemo.dll
