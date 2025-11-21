@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\jsonschemaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:jsonschemaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\deadlettertopicproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:deadlettertopicproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\transactionalproducerwithfailure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:transactionalproducerwithfailure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\transactionalproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:transactionalproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\idempotentproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:idempotentproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\nonidempotentproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:nonidempotentproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\atmostonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:atmostonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\atleastonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:atleastonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\exactlyonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:exactlyonceproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\deliverysemanticsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:deliverysemanticsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|c:\\users\\user\\desktop\\advance_training_c#\\kafkaproducer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA67BA22-924B-4AB5-B3EC-82A691D18E37}|KafkaProducer.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:52:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonSchemaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\JsonSchemaProducer.cs",
+              "RelativeDocumentMoniker": "JsonSchemaProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\JsonSchemaProducer.cs",
+              "RelativeToolTip": "JsonSchemaProducer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:45:43.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeadLetterTopicProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\DeadLetterTopicProducer.cs",
+              "RelativeDocumentMoniker": "DeadLetterTopicProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\DeadLetterTopicProducer.cs",
+              "RelativeToolTip": "DeadLetterTopicProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:18:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionalProducerWithFailure.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\TransactionalProducerWithFailure.cs",
+              "RelativeDocumentMoniker": "TransactionalProducerWithFailure.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\TransactionalProducerWithFailure.cs",
+              "RelativeToolTip": "TransactionalProducerWithFailure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:53:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionalProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\TransactionalProducer.cs",
+              "RelativeDocumentMoniker": "TransactionalProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\TransactionalProducer.cs",
+              "RelativeToolTip": "TransactionalProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:52:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NonIdempotentProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\NonIdempotentProducer.cs",
+              "RelativeDocumentMoniker": "NonIdempotentProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\NonIdempotentProducer.cs",
+              "RelativeToolTip": "NonIdempotentProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:37:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdempotentProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\IdempotentProducer.cs",
+              "RelativeDocumentMoniker": "IdempotentProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\IdempotentProducer.cs",
+              "RelativeToolTip": "IdempotentProducer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:36:36.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExactlyOnceProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\ExactlyOnceProducer.cs",
+              "RelativeDocumentMoniker": "ExactlyOnceProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\ExactlyOnceProducer.cs",
+              "RelativeToolTip": "ExactlyOnceProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:27:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtLeastOnceProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\AtLeastOnceProducer.cs",
+              "RelativeDocumentMoniker": "AtLeastOnceProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\AtLeastOnceProducer.cs",
+              "RelativeToolTip": "AtLeastOnceProducer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:26:25.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AtMostOnceProducer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\AtMostOnceProducer.cs",
+              "RelativeDocumentMoniker": "AtMostOnceProducer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\AtMostOnceProducer.cs",
+              "RelativeToolTip": "AtMostOnceProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:25:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeliverySemanticsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\DeliverySemanticsConfig.cs",
+              "RelativeDocumentMoniker": "DeliverySemanticsConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\DeliverySemanticsConfig.cs",
+              "RelativeToolTip": "DeliverySemanticsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:24:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:34:05.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\KafkaProducer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAKQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:16:34.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

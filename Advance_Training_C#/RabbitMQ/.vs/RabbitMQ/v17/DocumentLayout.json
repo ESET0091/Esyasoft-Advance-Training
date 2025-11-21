@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\models\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:models\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\models\\meterreadingmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:models\\meterreadingmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\controllers\\meterreadingproducercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:controllers\\meterreadingproducercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|c:\\users\\user\\desktop\\advance_training_c#\\rabbitmq\\meterreadingmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D9854-2B58-4522-B971-EB837ED9017E}|RabbitMQ.csproj|solutionrelative:meterreadingmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Models\\RabbitMQConfig.cs",
+              "RelativeDocumentMoniker": "Models\\RabbitMQConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Models\\RabbitMQConfig.cs",
+              "RelativeToolTip": "Models\\RabbitMQConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:22:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeterReadingMessage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Models\\MeterReadingMessage.cs",
+              "RelativeDocumentMoniker": "Models\\MeterReadingMessage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Models\\MeterReadingMessage.cs",
+              "RelativeToolTip": "Models\\MeterReadingMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:21:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\services\\RabbitMqService.cs",
+              "RelativeToolTip": "services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:57:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T06:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeterReadingProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Controllers\\MeterReadingProducerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeterReadingProducerController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Controllers\\MeterReadingProducerController.cs",
+              "RelativeToolTip": "Controllers\\MeterReadingProducerController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwCsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:31:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeterReadingMessage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\MeterReadingMessage.cs",
+              "RelativeDocumentMoniker": "MeterReadingMessage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\MeterReadingMessage.cs",
+              "RelativeToolTip": "MeterReadingMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:25:22.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Advance_Training_C#\\RabbitMQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:01:53.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
